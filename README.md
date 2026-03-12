@@ -1,34 +1,34 @@
 # 📊 Sales Data Dashboard (Excel Project)
 
-An interactive Excel dashboard designed to analyze sales performance, regional trends, product categories, and key business metrics in a clear and visual way.
+An **interactive Excel dashboard** designed to analyze sales performance, regional trends, product categories, and key business metrics in a clear and visual way.
 
-This project demonstrates how raw sales data can be transformed into meaningful insights using Microsoft Excel tools such as Pivot Tables, Pivot Charts, and Slicers.
+This project demonstrates how **raw sales data can be transformed into meaningful insights using Microsoft Excel tools** such as Pivot Tables, Pivot Charts, and Slicers.
 
 ---
 
 # 🚀 Project Overview
 
-The Sales Data Dashboard provides a centralized view of business performance.
+The **Sales Data Dashboard** provides a centralized view of business performance.
 
 It allows users to quickly analyze:
 
-*💰 Total Sales Revenue
-*📦 Total Orders
+💰 Total Sales Revenue
+📦 Total Orders
 📈 Sales Trends Over Time
 🌍 Regional Sales Performance
 🛍️ Product Category Contribution
 
-The dashboard is fully interactive, enabling users to filter and explore the data dynamically.
+The dashboard is fully **interactive**, enabling users to filter and explore the data dynamically.
 
 ---
 
 # 🗂️ Project Files
 
-| File Name                 | Description                         |
-| ------------------------- | ----------------------------------- |
-| 📄 sales_dashboard.xlsx   | Main Excel dashboard file           |
-| 🖼️ dashboard_preview.png | Screenshot preview of the dashboard |
-| 📘 README.md              | Project documentation               |
+| File Name                   | Description                         |
+| --------------------------- | ----------------------------------- |
+| 📄 `sales dashboard.xlsx`   | Main Excel dashboard file           |
+| 🖼️ `dashboard_preview.png` | Screenshot preview of the dashboard |
+| 📘 `README.md`              | Project documentation               |
 
 ---
 
@@ -38,10 +38,10 @@ The dashboard is fully interactive, enabling users to filter and explore the dat
 
 The top section provides a quick summary of the most important metrics:
 
-💰 Total Sales
-📦 Total Orders
-📊 Highest Sale
-💵 Total Profit
+💰 **Total Sales**
+📦 **Total Orders**
+📊 **Highest Sale**
+💵 **Total Profit**
 
 These KPIs help users quickly understand overall business performance.
 
@@ -53,13 +53,13 @@ These KPIs help users quickly understand overall business performance.
 
 Shows sales distribution across different regions:
 
-Central
-East
-North
-South
-West
+* Central
+* East
+* North
+* South
+* West
 
-This helps identify the best performing region.
+This helps identify the **best performing region**.
 
 ---
 
@@ -67,13 +67,13 @@ This helps identify the best performing region.
 
 Displays the contribution of different product categories:
 
-Books
-Clothing
-Electronics
-Furniture
-Office Supplies
+* Books
+* Clothing
+* Electronics
+* Furniture
+* Office Supplies
 
-This chart highlights which categories generate the most revenue.
+This chart highlights which **categories generate the most revenue**.
 
 ---
 
@@ -102,13 +102,13 @@ The dashboard automatically highlights key business insights such as:
 
 # 🎛️ Interactive Filters (Slicers)
 
-The dashboard includes interactive slicers that allow users to filter the data instantly.
+The dashboard includes **interactive slicers** that allow users to filter the data instantly.
 
 Available slicers:
 
-🌍 Region Filter
-📦 Product Category Filter
-👤 Customer Name Filter
+🌍 **Region Filter**
+📦 **Product Category Filter**
+👤 **Customer Name Filter**
 
 These filters allow users to analyze specific segments easily.
 
@@ -116,27 +116,16 @@ These filters allow users to analyze specific segments easily.
 
 # 🛠️ Tools & Technologies Used
 
-📊 Microsoft Excel
+📊 **Microsoft Excel**
 
 Key Excel features used:
 
-Pivot Tables
-Pivot Charts
-Slicers
-Data Cleaning
-Conditional Formatting
-Dashboard Layout Design
-
----
-
-# 📷 Dashboard Preview
-
-Example:
-
-```
-<img width="384" height="313" alt="Screenshot 2026-03-13 004100" src="https://github.com/user-attachments/assets/84bdcf99-0b2e-47b9-b0d1-24c505d0a2cc" />
-
-```
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Data Cleaning
+* Conditional Formatting
+* Dashboard Layout Design
 
 ---
 
@@ -144,8 +133,8 @@ Example:
 
 ✔️ West region contributes the highest sales.
 ✔️ Clothing and Books generate strong revenue share.
-✔️ Total revenue exceeded 195K from 200 orders.
-✔️ Sales peaks appear around April and October.
+✔️ Total revenue exceeded **195K** from **200 orders**.
+✔️ Sales peaks appear around **April and October**.
 
 ---
 
@@ -164,7 +153,7 @@ This dashboard can be used for:
 # 📈 How to Use
 
 1️⃣ Download the repository
-2️⃣ Open sales_dashboard.xlsx
+2️⃣ Open Excel file
 3️⃣ Enable editing if prompted
 4️⃣ Use slicers to filter data
 5️⃣ Analyze sales insights visually
@@ -172,3 +161,7 @@ This dashboard can be used for:
 ---
 
 
+
+⭐ If you like this project, feel free to **star the repository** and share it!
+
+remove *
