@@ -153,9 +153,13 @@ This dashboard can be used for:
 # 📈 How to Use
 
 1️⃣ Download the repository
+
 2️⃣ Open Excel file
+
 3️⃣ Enable editing if prompted
+
 4️⃣ Use slicers to filter data
+
 5️⃣ Analyze sales insights visually
 
 ---
@@ -164,4 +168,3 @@ This dashboard can be used for:
 
 ⭐ If you like this project, feel free to **star the repository** and share it!
 
-remove *
