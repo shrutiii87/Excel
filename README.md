@@ -153,9 +153,13 @@ Key Excel features used:
 This dashboard can be used for:
 
 📊 Sales Performance Monitoring
+
 📈 Business Intelligence Reporting
+
 📉 Market Trend Analysis
+
 📦 Product Performance Tracking
+
 🧾 Executive Reporting
 
 ---
