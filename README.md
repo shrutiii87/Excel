@@ -30,7 +30,7 @@ The dashboard is fully **interactive**, enabling users to filter and explore the
 
 | File Name                   | Description                         |
 | --------------------------- | ----------------------------------- |
-| 📄 `sales dashboard.xlsx`   | Main Excel dashboard file           |
+| 📄 `PR_2_sales_dashboard.xlsx`   | Main Excel dashboard file           |
 | 🖼️ `dashboard_preview.png` | Screenshot preview of the dashboard |
 | 📘 `README.md`              | Project documentation               |
 
