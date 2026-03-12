@@ -4,7 +4,7 @@ An interactive Excel dashboard designed to analyze sales performance, regional t
 This project demonstrates how raw sales data can be transformed into meaningful insights using Microsoft Excel tools such as Pivot Tables, Pivot Charts, and Slicers.
 
 
-# 🚀 Project Overview
+🚀 Project Overview
 
 The Sales Data Dashboard provides a centralized view of business performance.
 
@@ -18,7 +18,7 @@ It allows users to quickly analyze:
 
 The dashboard is fully interactive, enabling users to filter and explore the data dynamically.
 
-# 🗂️ Project Files
+ 🗂️ Project Files
 
 | File Name                 | Description                         |
 | ------------------------- | ----------------------------------- |
@@ -28,9 +28,9 @@ The dashboard is fully interactive, enabling users to filter and explore the dat
 
 ---
 
-# 🧩 Dashboard Structure
+ 🧩 Dashboard Structure
 
-## 🔹 1️⃣ KPI Cards (Top Section)
+ 1️⃣ KPI Cards (Top Section)
 
 The top section provides a quick summary of the most important metrics:
 
@@ -43,9 +43,9 @@ These KPIs help users quickly understand overall business performance.
 
 ---
 
-## 🔹 2️⃣ Sales Analysis Section
+2️⃣ Sales Analysis Section
 
-### 📊 Region Wise Sales (Bar Chart)
+📊 Region Wise Sales (Bar Chart)
 
 Shows sales distribution across different regions:
 
@@ -57,9 +57,8 @@ West
 
 This helps identify the best performing region.
 
----
 
-### 🥧 Category Wise Sales (Pie Chart)
+🥧 Category Wise Sales (Pie Chart)
 
 Displays the contribution of different product categories:
 
@@ -71,9 +70,7 @@ Office Supplies
 
 This chart highlights which categories generate the most revenue.
 
----
-
-### 📈 Sales Trend (Line Chart)
+📈 Sales Trend (Line Chart)
 
 A monthly trend chart that shows how sales change over time.
 
@@ -83,9 +80,8 @@ This helps identify:
 ✔️ High performing months
 ✔️ Sales fluctuations
 
----
 
-### 📊 Key Insights Section
+📊 Key Insights Section
 
 The dashboard automatically highlights key business insights such as:
 
@@ -94,9 +90,8 @@ The dashboard automatically highlights key business insights such as:
 ✔️ Best performing categories
 ✔️ Peak sales months
 
----
 
-# 🎛️ Interactive Filters (Slicers)
+ 🎛️ Interactive Filters (Slicers)
 
 The dashboard includes interactive slicers that allow users to filter the data instantly.
 
@@ -108,9 +103,7 @@ Available slicers:
 
 These filters allow users to analyze specific segments easily.
 
----
-
-# 🛠️ Tools & Technologies Used
+🛠️ Tools & Technologies Used
 
 📊 Microsoft Excel
 
@@ -125,19 +118,11 @@ Dashboard Layout Design
 
 ---
 
-# 📷 Dashboard Preview
+📷 Dashboard Preview
 
-Insert dashboard screenshot here
+<img width="384" height="313" alt="Screenshot 2026-03-13 004100" src="https://github.com/user-attachments/assets/4eba9ff7-cd30-4982-bfba-5a640d2cd694" />
 
-Example:
-
-```
-![Dashboard Preview](dashboard_preview.png)
-```
-
----
-
-# 📌 Key Insights
+ 📌 Key Insights
 
 ✔️ West region contributes the highest sales.
 ✔️ Clothing and Books generate strong revenue share.
@@ -166,25 +151,11 @@ This dashboard can be used for:
 4️⃣ Use slicers to filter data
 5️⃣ Analyze sales insights visually
 
----
-
-# 🌟 Future Improvements
-
-Possible enhancements for the project:
-
-✔️ Power BI version of the dashboard
-✔️ Automated data refresh
-✔️ Python data analysis integration
-✔️ Sales forecasting model
 
 
 
- 👨‍💻 Author
 
-Babita Bhavsar
 
-📍 India
-💼 Excel | Data Analysis | Dashboard Development
 
 
 
