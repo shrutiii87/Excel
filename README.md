@@ -134,7 +134,7 @@ Dashboard Layout Design
 Example:
 
 ```
-<img width="384" height="313" alt="Screenshot 2026-03-13 004100" src="https://github.com/user-attachments/assets/cc3db67e-1f49-4d66-8154-8cc297b428d5" />
+<img width="384" height="313" alt="Screenshot 2026-03-13 004100" src="https://github.com/user-attachments/assets/84bdcf99-0b2e-47b9-b0d1-24c505d0a2cc" />
 
 ```
 
