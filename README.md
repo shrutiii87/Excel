@@ -84,7 +84,9 @@ A monthly trend chart that shows how sales change over time.
 This helps identify:
 
 ✔️ Seasonal demand
+
 ✔️ High performing months
+
 ✔️ Sales fluctuations
 
 ---
@@ -94,8 +96,11 @@ This helps identify:
 The dashboard automatically highlights key business insights such as:
 
 ✔️ Total revenue generated
+
 ✔️ Top performing region
+
 ✔️ Best performing categories
+
 ✔️ Peak sales months
 
 ---
@@ -107,7 +112,9 @@ The dashboard includes **interactive slicers** that allow users to filter the da
 Available slicers:
 
 🌍 **Region Filter**
+
 📦 **Product Category Filter**
+
 👤 **Customer Name Filter**
 
 These filters allow users to analyze specific segments easily.
@@ -132,8 +139,11 @@ Key Excel features used:
 # 📌 Key Insights
 
 ✔️ West region contributes the highest sales.
+
 ✔️ Clothing and Books generate strong revenue share.
+
 ✔️ Total revenue exceeded **195K** from **200 orders**.
+
 ✔️ Sales peaks appear around **April and October**.
 
 ---
