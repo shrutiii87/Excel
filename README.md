@@ -12,8 +12,8 @@ The Sales Data Dashboard provides a centralized view of business performance.
 
 It allows users to quickly analyze:
 
-💰 Total Sales Revenue
-📦 Total Orders
+*💰 Total Sales Revenue
+*📦 Total Orders
 📈 Sales Trends Over Time
 🌍 Regional Sales Performance
 🛍️ Product Category Contribution
