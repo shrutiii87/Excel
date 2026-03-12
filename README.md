@@ -43,8 +43,11 @@ The dashboard is fully **interactive**, enabling users to filter and explore the
 The top section provides a quick summary of the most important metrics:
 
 💰 **Total Sales**
+
 📦 **Total Orders**
+
 📊 **Highest Sale**
+
 💵 **Total Profit**
 
 These KPIs help users quickly understand overall business performance.
