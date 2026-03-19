@@ -29,6 +29,7 @@ The dashboard is fully interactive, enabling users to filter and explore the dat
 |---|---|
 | 📄 `shruti_Excel_Dashboard.xlsx` | Main Excel dashboard file |
 | 📘 `README.md` | Project documentation |
+|  `dashboard_preview.png` | image |
 
 ---
 
