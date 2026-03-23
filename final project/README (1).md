@@ -174,10 +174,10 @@ The dashboard features a clean **green-themed** design with:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Shruti Bhawsar
 
-📍 India
-💼 Data Analysis | Excel Dashboard | Business Intelligence
+📍 Ahemdabad
+
 
 ---
 
