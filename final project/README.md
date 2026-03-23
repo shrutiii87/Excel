@@ -130,10 +130,15 @@ The dashboard features a clean **green-themed** design with:
 ## 📌 Key Insights Derived
 
 ✔️ **Electronics** is the top-performing category by revenue
+
 ✔️ **Credit Card** and **PayPal** are the most preferred payment methods
+
 ✔️ Revenue peaked in **2024** with a declining trend towards 2025 (seasonal or market shift)
+
 ✔️ **Mark Carter** is the highest-value customer at $15,659.65
+
 ✔️ All 5 regions contribute measurably — no single region is negligible
+
 ✔️ **Premium** customers drive disproportionate revenue vs Basic/Standard segments
 
 ---
